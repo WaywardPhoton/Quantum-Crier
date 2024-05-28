@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on The Quantum Crier</title>
-        <link>https://anaciocoiu.eu/post/</link>
+        <link>http://localhost:1313/post/</link>
         <description>Recent content in Posts on The Quantum Crier</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 05 Feb 2024 22:21:25 -0800</lastBuildDate><atom:link href="https://anaciocoiu.eu/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://anaciocoiu.eu/post/test/</link>
+        <lastBuildDate>Mon, 05 Feb 2024 22:21:25 -0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Recap</title>
+        <link>http://localhost:1313/post/test/</link>
         <pubDate>Mon, 05 Feb 2024 22:21:25 -0800</pubDate>
         
-        <guid>https://anaciocoiu.eu/post/test/</guid>
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+        <guid>http://localhost:1313/post/test/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Feb 2, 2024.&lt;/strong&gt; &lt;em&gt;And what a crazy year it&amp;rsquo;s been.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;recap&#34;&gt;Recap&lt;/h2&gt;
+&lt;p&gt;What a wild ride the past year has been. I&amp;rsquo;ve truly pushed myself to pursue what makes me happy regardless of the difficulty or cost. In June 2023, I successfully defended my &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/ubc_2023_november_ciocoiu_antonia.pdf&#34; &gt;MASc thesis&lt;/a&gt;. I ended up quitting my job soon after due to burnout, and spent the next several months sailing, climbing, and generally bumming around western North America. Through connections I eventually landed a job working as an electrical contractor, repairing a Coast Guard vessel, which was definitely an interesting experience in the short term. Now, I&amp;rsquo;m happy to say that I&amp;rsquo;ve returned full time to working on quantum computing as a consultant for the Quantum Algorithms Institute!&lt;/p&gt;
 </description>
         </item>
         

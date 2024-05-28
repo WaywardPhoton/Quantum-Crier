@@ -1,6 +1,6 @@
 ---
 title: About Ana 
-description:  Embedded Software Engineer & Science Communicator
+description:  Quantum Engineer & Science Communicator
 date: '2024-02-14'
 
 menu:
@@ -16,7 +16,7 @@ menu:
 
 Hi! I'm Ana, an electrical engineer with a background in embedded systems and quantum computing. I graduated form the [QST Lab](https://sites.google.com/view/ubcqtl/home) at the [University of British Columbia](https://www.ubc.ca/) in May 2023. 
 
-I'm currently working as a professional development consultant at the [Quantum Algorithms Institute](https://www.quantumalgorithmsinstitute.ca/) while building my own consulting business.
+I'm currently working an integrated circuit designer for superconducting devices at [D-Wave](https://www.dwavesys.com) while building my own educational content consulting business part-time.
 
 I'm also a rock climber and amateur mountaineer making the most of the beautiful South Coast mountains. 
 

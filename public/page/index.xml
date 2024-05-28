@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on The Quantum Crier</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on The Quantum Crier</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About Ana</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/welcome.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Hi! I&amp;rsquo;m Ana, an electrical engineer with a background in embedded systems and quantum computing. I graduated form the &lt;a class=&#34;link&#34; href=&#34;https://sites.google.com/view/ubcqtl/home&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;QST Lab&lt;/a&gt; at the &lt;a class=&#34;link&#34; href=&#34;https://www.ubc.ca/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;University of British Columbia&lt;/a&gt; in May 2023.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently working as a professional development consultant at the &lt;a class=&#34;link&#34; href=&#34;https://www.quantumalgorithmsinstitute.ca/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Algorithms Institute&lt;/a&gt; while building my own consulting business.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m also a rock climber and amateur mountaineer making the most of the beautiful South Coast mountains.&lt;/p&gt;
+&lt;h3 id=&#34;my-cv&#34;&gt;My CV&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/CV.pdf&#34; &gt;&lt;em&gt;Ana&amp;rsquo;s CV&lt;/em&gt;&lt;/a&gt; An up-to-date version of my CV.&lt;/p&gt;
+&lt;h3 id=&#34;contact-me&#34;&gt;Contact me&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;cana6506@gmail.com&#34; &gt;cana6506@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Outreach</title>
+        <link>http://localhost:1313/page/outreach/</link>
+        <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/outreach/</guid>
+        <description>&lt;h4 id=&#34;quantum-computing-outreach-work&#34;&gt;Quantum Computing Outreach Work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.egbc.ca/Events/Events/2023/23NOVIQC&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;EGBC, Introduction to Quantum Computing&lt;/a&gt; (2023). Updated and expanded previous offering into a 6-hour seminar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://qmi.ubc.ca/news/bc-teachers-get-professional-development-course-in-quantum-computing/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Computing For Your Classroom&lt;/a&gt; (2022). Developed content for a course aimed at introducing high school students to quantum computing. The course is meant to be used by BC teachers, and integrates easily into the high school math and science curriculum in BC.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.egbc.ca/Events/Events/2022/22JUNIQC&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;EGBC, Introduction to Quantum Computing&lt;/a&gt; (2022). Designed and taught a 4-hour seminar on quantum computing for Engineers and Geoscientists BC. The course was intended as a fun but comprehensive introduction to quantum computing, and strove to answer three fundamental questions: what is quantum computing, why do we need it, and what have we achieved so far? This was done interactively through the use of JupyterHub to deliver and synchronize activities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://openprocessing.org/user/307789?view=sketches&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Double Slit Experiments&lt;/a&gt;(2022). Used javascript and p5js to create a simple animation of the double slit experiment in the thin slit (point source approx) and thick slit cases. The simulations are being integrated into existing high school lab material that is aimed at making quantum computing accessible to a younger audience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://stemteachersnyc.org/quantum-computing-a-weird-wonderful-new-world/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;STEM NYC&lt;/a&gt; (2021). Created and led a 2-day professional development workshop for STEM teachers in New York. Designed interactive activities (such as coding in IBM Quantum Lab) to introduce fundamentao quantum computing concepts and give teachers ideas for activities that can be integrated into their classroom.&lt;!-- raw HTML omitted --&gt;
+Coordinated with guest lecturers from the University of British Columbia to integrate cutting-edge research development into curriculum. Hosted the workshop on a shared server with Jupyterhub, to ensure teachers had access to material. Designed all graphics and coding activities for the workshop. A sample graphic that I made is shown below.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/bloch2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantum Computing Summer Camp (2021). Created activities and content for a virtual summer camp for students grade 5-12. The goal of the camp was to introduce quantum computing in a fun way:  games, experiments, and quizzes were integrated into the material. I also created some of the coding activities and designed many of the graphics. &lt;!-- raw HTML omitted --&gt;
+The camp is a property of UBC but some of the material is found in the Jupyter Book linked above. The biggest challenge was to simplify content without taking away its essence: review came back overwhelmingly positive. Shown below is a character (&amp;lsquo;Q&amp;rsquo;) I designed for the software team, which developed the games.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Projects</title>
+        <link>http://localhost:1313/page/projects/</link>
+        <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/projects/</guid>
+        <description>&lt;h4 id=&#34;complete-list-of--projects&#34;&gt;Complete List of  Projects&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/WaywardPhoton/Emulator8080&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;8080 Emulator&lt;/a&gt; (Software - 2022). Creating an emulator of the 8080 chip in C++. Researching and implementing opcodes, creating a method for simulating and handling interrupts. Implementing graphics using OpenGL. Currently in progress.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/Superconducting_Report.pdf&#34; &gt;Superconducting Circuit Design&lt;/a&gt; (Hardware - 2021). Term project for a course on superconducting circuit design. A circuit containing multiple co-planar waveguide resonators operating within a range of 4-8 GHz with and without SQUID arrays is designed and laid out for fabrication. The SQUIDs are used to shift the resonance frequency of the resonator when added in series with them
+and the lone resonators are used as fail-safe designs. The fabricated design will be tested in a cryostat at 4K and probed with a VNA to determine whether the resonance shift is detectable. If successful, circuit will provide a future way to multiplex and readout superconducting nanowire single photon detectors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/microsoft/QuantumKatas/tree/main/QFT&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Fourier Transform Kata&lt;/a&gt; (Software - 2021). Contributed to open-source Q# quantum computing programming repo. Developed workbook solutions to increasingly challenging set of exercises. Made use of both my teachign and math backgrounds to develop clean, concise, and simple solitions to the problems. My contributions were succesfully integrated into the Quantum Katas repository.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/ENGR_542_Term_Paper.pdf&#34; &gt;Spin Qubits Simulation&lt;/a&gt; (Software - 2021). In this term project, important properties of hole spins in single and double quantum dots (QDs) were investigated using a scripted Kohn-Luttinger solver and Hamiltonian based on &lt;a class=&#34;link&#34; href=&#34;https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013194&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Mutter and Burkard&lt;/a&gt;. Fascinating properties of spin-flip and spin-conserving tunneling in double quantum dots were discovered.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/WaywardPhoton/QSciTech-QuantumBC-Workshop-Team4-Solution&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Variational Quantum Eigensolver&lt;/a&gt; (Software - 2021). As part of a Quantum BC workshop team, we created a variational quantum eigensolver (VQE) that finds the ground state energy of the hydrogen (H2) molecule on IBM&amp;rsquo;s quantum computer. We use Jordan-Wigner mapping to map the fermionic operators to Pauli matrices. Noise mitigation is also applied to give a better solution. We won third place in the competition.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/ENGR470_Lab5-Report_Group1.pdf&#34; &gt;1 GHz Amplifier Design and Testing&lt;/a&gt; (Hardware - 2020). Designed a 1GHz amplifier in AWR using an NXP BFR520 NPN microwave transistor. The design was be implemented on a Rogers RO4350 substrate.
+Mathcing circuits were designed and implemented using microstrip transmission lines. The amplifier was required have a gain of &amp;gt;10dB at the centre frequency, a bandwidth of 200MHz, and a input return loss of no greater than -11dB. After fabrication the amplifier was tested and met these specifications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/WaywardPhoton/2-D-FDTD&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;FDTD Simulation&lt;/a&gt; (Software - 2020). A 2-D Finite-Difference Time Domain simulator was built (Matlab) to simulate the propagation of EM waves originating from a gaussian beam source. A perfectly matched layer (PML) is implemented based on the description in Computational Electrodynamics by Taflove (2005).
+The simulator can be configured to incorporated transmission and reflection across a variety of materials. In this case, a sphere with a refractive index of 1.5 was simulated (below). At the end, the maximum of the E and H-fields obtained can be plotted as a heat map. This code was used in research to facilitate the design of retro-reflecting spheres.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/FDTD.PNG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://youtu.be/joJTcCTw8yg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;3-Phase DC Motor&lt;/a&gt; (Hardware - 2019). A 3-Phase DC motor was designed using 3-D printed magnetized plastic and neodymium magnets. Chassis designed in Solidworks and printed at UBCO. Enameled copper wire was used for the wiring. The motor was contolled using a cheap ESC module.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Dr3Phase.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
